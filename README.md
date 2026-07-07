@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;Computer+Vision+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;Computer+Vision+Developer;Active+Learner;Confident+Public+Speaker;Always+Learning+Something+New" />
 
 </p>
 
@@ -54,11 +54,11 @@ Passionate about building impactful AI-powered products and scalable web applica
 
 # 🎓 Education
 
-| Degree | Institute |
+| Degree | Institute | Cgpa |
 |---------|-----------|
-| 🎓 B.Tech (CSE - AIML) | Vellore Institute of Technology |
-| 🏫 Intermediate | Sri Chaitanya Junior College |
-| 🏫 High School | Jawahar Navodaya Vidyalaya |
+| 🎓 B.Tech (CSE - AIML) | Vellore Institute of Technology | 8.77 |
+| 🏫 Intermediate | Sri Chaitanya Junior College | 8.97 |
+| 🏫 High School | Jawahar Navodaya Vidyalaya | 9.08 |
 
 ---
 
