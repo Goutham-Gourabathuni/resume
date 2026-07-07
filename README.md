@@ -55,7 +55,7 @@ Passionate about building impactful AI-powered products and scalable web applica
 # 🎓 Education
 
 | Degree | Institute | Cgpa |
-|---------|-----------|
+|---------|-----------|---------|
 | 🎓 B.Tech (CSE - AIML) | Vellore Institute of Technology | 8.77 |
 | 🏫 Intermediate | Sri Chaitanya Junior College | 8.97 |
 | 🏫 High School | Jawahar Navodaya Vidyalaya | 9.08 |
